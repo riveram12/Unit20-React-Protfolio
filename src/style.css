@@ -16,7 +16,7 @@ nav {
 }
 
 .jumbotron {
-  background-image: url("../images/landingpg.jpg");
+  background-image: url("/src/Images/landingpg-01.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -56,7 +56,7 @@ nav {
 }
 
 #bodyimg {
-  background-image: url("../images/bckgrd-contactmepg-01.png");
+  background-image: url("/src/Images/bckgrd-contactmepg-01.png");
   background-position: center;
   background-repeat: repeat-y;
   background-size: cover;
